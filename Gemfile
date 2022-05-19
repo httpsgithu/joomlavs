@@ -8,7 +8,7 @@ group :cli do
 end
 
 group :http do
-  gem 'nokogiri', '~>1.8.4'
+  gem 'nokogiri', '~>1.13.5'
   gem 'typhoeus', '~>1.3.0'
 end
 
